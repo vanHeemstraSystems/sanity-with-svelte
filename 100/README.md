@@ -4,12 +4,12 @@
 
 This starter uses [SvelteKit](https://kit.svelte.dev/) for the frontend and [Sanity](https://sanity.io/) to handle its content.
 
-Featuring
+## Featuring
 
-- How to fetch content as data from the Sanity Content Lake
-- How to render block content with Portable Text
-- A Sanity Studio to create and edit content
-- How to crop and render images with Sanity Image URLs
+- How to fetch content as data from the [Sanity Content Lake](https://www.sanity.io/docs/datastore)
+- How to render block content with [Portable Text](https://www.sanity.io/docs/presenting-block-text)
+- A [Sanity Studio](https://www.sanity.io/docs/sanity-studio) to create and edit content
+- How to crop and render images with [Sanity Image URLs](https://www.sanity.io/docs/image-url)
 
 **Note**: 
 
