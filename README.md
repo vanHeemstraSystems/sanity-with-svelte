@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+sanity-with-svelte
+# Sanity with Svelte
 
-Based on "ABC" at https://www.abc.com/
+Based on "SvelteKit Sanity Clean" at https://www.sanity.io/templates/sveltekit-sanity-clean
 
 ## 100 - Introduction
 
