@@ -3,6 +3,8 @@ sanity-with-svelte
 
 Based on "SvelteKit Sanity Clean" at https://www.sanity.io/templates/sveltekit-sanity-clean
 
+Based on "Demo" at https://sanity-template-sveltekit-clean.sanity.build/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
