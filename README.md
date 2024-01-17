@@ -5,6 +5,8 @@ Based on "SvelteKit Sanity Clean" at https://www.sanity.io/templates/sveltekit-s
 
 Based on "Demo" at https://sanity-template-sveltekit-clean.sanity.build/
 
+Based on "Clean starter template with SvelteKit" at https://github.com/sanity-io/sanity-template-sveltekit-clean
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
